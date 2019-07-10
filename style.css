@@ -5,23 +5,40 @@ Body {
     width: 960px;
     font-size: 18px;
 }
-header {
-    background: #ebebeb
 
+header {
+    background: #ebebeb;
+    width: 750px;
+    padding: 20px 0;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
 }
 
 nav {
-    background: #ebebeb
+    background: #ebebeb;
+    width: 750px;
+    padding: 20px 0;
+    margin: 12px 100px;
+    text-align: center;
 
 }
 
 section {
-    background: #ebebeb
-
+    background: #ebebeb;
+    width: 400px;
+    height: 300px;
+    
 }
 
 aside {
-    background: #ebebeb
+    background: #ebebeb;
+    width: 350px;
+    height: 300px;
+    padding: 20px auto 250px auto;
+    margin: 12px;
+    
+
 
 }
 article {
@@ -41,7 +58,13 @@ p {
 }
 
 footer {
-    background: #ebebeb
+    background: #ebebeb;
+    width: 750px;
+    padding: 20px 0;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+
 
 
 }
